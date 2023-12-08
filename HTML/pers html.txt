@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    
+    </head>
+    <body>
+    <h1><center><b>College:sri krishna college of technology</b></center></h1>
+    <h2><b>Name:SADHURYA.S</b></h2>
+    <h3>Department:ECE</h3>
+    <h4>Batch:2023-2027</h4>
+    <h5>About me:</h5>
+    <p>My name is sadhurya and I am 18 years old.
+I live with my parents and elder brother in dharmapuri, near the salem.
+My father is a businessman and works hard to sustain the family.
+My mother looks after the house and need of the family members.
+My house has a small lawn of its own, which has a variety of flowers.
+During vacations, we visit our grandparents, who stay in our ancestral village.
+The climate of dharmapuri gets hot and humid in the summer season.
+salem is a major center for the technology industry.
+salem is going to be a metropolitan city with people from different ethnic and cultural backgrounds.
+I love my city and its people for they are my pride and identity</p><br>
+<h6>favourite hero:</h6>
+<img src="https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS_Q-fRFfDWAEfOcz_R0vktnglTXYO4EKn9z8bBlX6mgl4cobbtQ8K4KZFq46SSM4ArMq51ma5AZGxc62Y" heigh="1200" width="900" alt="no image" /><br>
+   <big><h7>favourite food: pani puri</h7></big><br>
+   <img src="https://i0.wp.com/binjalsvegkitchen.com/wp-content/uploads/2015/03/Pani-Puri-H2-WP-WT-S.jpg?ssl=1" height="1200" width="900" alt="no  image" />
+    </body>
+</html>
